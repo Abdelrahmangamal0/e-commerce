@@ -1,0 +1,79 @@
+.main {
+
+   width: 40%;
+   box-shadow: 1px 1px 10px silver;
+   margin-top: 45px;
+   padding: 10px;
+
+
+}
+
+h2 {
+   font-family: "Rubik", sans-serif;
+
+}
+
+input {
+   margin-bottom: 10px;
+   width: 60%;
+   padding: 5px;
+   font-family: "Rubik", sans-serif;
+   font-size: 15px;
+   font-weight: bold;
+
+}
+
+button {
+   border: none;
+   width: 30%;
+   padding: 10px;
+   font-family: "Rubik", sans-serif;
+   font-size: 15px;
+   font-weight: bold;
+   background-color: #1AC15C;
+   cursor: pointer;
+   margin-bottom: 15px;
+   margin-left: 5px;
+
+}
+
+label {
+   padding: 10px;
+   font-size: 15px;
+   font-weight: bold;
+   cursor: pointer;
+   background-color: #1F87CF;
+   font-family: "Rubik", sans-serif;
+   color: white;
+}
+
+a {
+   text-decoration: none;
+   font-size: 20px;
+   color: tomato;
+   font-family: "Rubik", sans-serif;
+   font-weight: bold;
+}
+
+
+h3 {
+   font-family: "Rubik", sans-serif;
+   font-weight: bold;
+}
+
+.card {
+   float: right;
+   margin-top: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+
+}
+
+.card img {
+   width: 100%;
+   height: 200px;
+}
+
+main {
+   width: 60%;
+}

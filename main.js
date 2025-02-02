@@ -1,0 +1,1 @@
+location.href = "user/login.php";

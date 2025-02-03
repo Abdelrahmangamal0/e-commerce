@@ -1,1 +1,3 @@
-location.href = "user/login.php";
+import('user/login.php').then(module => {
+    module.myFunction();
+});
